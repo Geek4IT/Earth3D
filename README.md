@@ -1,7 +1,7 @@
 Earth3D
 =======
 
-[3D Earth](https://play.google.com/store/apps/details?id=com.geek4it.earth3d)
+[3D Earth](https://play.google.com/store/apps/details?id=com.geek4it.earth3d) is a livewallpaper app for Android platform.
 
 
 There are ton of textures(1024*512),and some obj models,you can use them to render your own Earth,do it yourself!
